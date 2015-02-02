@@ -1,0 +1,19 @@
+{
+  "name": "cleanbom",
+  "version": "1.0.0",
+  "description": "从adt迁移到android studio有可能出现：编译Java产生 illegal character: �79 错误的问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/cleanbom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/cleanbom/issues"
+  },
+  "homepage": "https://github.com/i5ting/cleanbom"
+}
